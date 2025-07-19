@@ -1,0 +1,7 @@
+.quarto/
+_site/
+posts/*.html
+posts/*_files/
+posts/.my first blog.qmd/
+posts/_quarto.yml
+robot.txt
