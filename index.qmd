@@ -3,8 +3,7 @@ title: "Algo-Bytes"
 ---
 
 Welcome to my blog!  
-[My First Blog Post]
-(/posts/my-first-blog.html)  
+[My First Blog Post] 
 *Published on July 19, 2025*  
 
 "Hello readers"
