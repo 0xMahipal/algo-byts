@@ -1,4 +1,11 @@
 ---
-title: "Algo-Bytes Blog"
+title: "Algo-Bytes"
 ---
-Welcome to my blog!
+
+Welcome to my blog!  
+
+### Latest Post:  
+[My First Blog Post](/posts/my-first-blog.html)  
+*Published on July 19, 2025*  
+
+"Hello readers"

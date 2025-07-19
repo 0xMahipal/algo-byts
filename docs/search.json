@@ -1,9 +1,16 @@
 [
   {
+    "objectID": "posts/my-first-blog.html",
+    "href": "posts/my-first-blog.html",
+    "title": "My First blog post",
+    "section": "",
+    "text": "← Back to Home"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Algo-Bytes Blog",
+    "title": "Algo-Bytes",
     "section": "",
-    "text": "Welcome to my blog!"
+    "text": "Welcome to my blog!\n\nLatest Post:\nMy First Blog Post\nPublished on July 19, 2025\n“Hello readers”"
   }
 ]

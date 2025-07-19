@@ -4,3 +4,4 @@ date: "2025-07-19"
 author: "Mahipal Singh"
 tags: [fisrt, introduction,blogging]
 ---
+[← Back to Home](/)
