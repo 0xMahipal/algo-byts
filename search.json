@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Started coding in 20XX… [your story]"
+  },
+  {
+    "objectID": "about.html#my-journey",
+    "href": "about.html#my-journey",
+    "title": "About Me",
+    "section": "",
+    "text": "Started coding in 20XX… [your story]"
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "About Me",
+    "section": "Skills",
+    "text": "Skills\n\nPython\nData Analysis\nTechnical Writing"
+  },
+  {
+    "objectID": "about.html#connect",
+    "href": "about.html#connect",
+    "title": "About Me",
+    "section": "Connect",
+    "text": "Connect\n{{&lt; social-links &gt;}}"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Algo-Bytes",
+    "section": "",
+    "text": "Tech enthusiast | Python developer | Open-source contributor\nBuilding tools to simplify development workflows"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Algo-Bytes",
+    "section": "About Me",
+    "text": "About Me\n\n\nI’m a self-taught developer passionate about creating educational content.\nThis blog documents my journey and shares tutorials."
+  },
+  {
+    "objectID": "index.html#latest-posts",
+    "href": "index.html#latest-posts",
+    "title": "Algo-Bytes",
+    "section": "Latest Posts",
+    "text": "Latest Posts\n{{&lt; listing \"posts/*.qmd\" &gt;}}\n# My favorite Python trick!\nprint(\"Keep learning!\")\n```"
+  },
+  {
+    "objectID": "posts/my-first-blog.html",
+    "href": "posts/my-first-blog.html",
+    "title": "My First blog post",
+    "section": "",
+    "text": "← Back to Home"
+  }
+]
